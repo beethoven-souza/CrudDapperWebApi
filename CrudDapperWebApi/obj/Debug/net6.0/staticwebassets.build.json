@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wrBMg+CwAazzbpKzJCJSBlO1qtA8fIHNuc+j7Tg/V24=",
+  "Source": "CrudDapperWebApi",
+  "BasePath": "_content/CrudDapperWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
